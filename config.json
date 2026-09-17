@@ -1,8 +1,26 @@
 [
   {
-    "name": "OFF_MARKET",
+    "name": "OFF MARKET",
     "supabase_url": "https://snxtykriqkivjpphudfq.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "IGA FAMILLE LAMBERT",
+    "supabase_url": "https://ufbslkifjnfnzmfbicum.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "STRUKTALL",
+    "supabase_url": "https://vaursizsdrviwiexmoix.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_3",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "ELITE CAPITAL",
+    "supabase_url": "https://mookxbntndxiiivaxisf.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_4",
     "table_name": "keep-alive"
   }
 ]
